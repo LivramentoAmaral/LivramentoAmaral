@@ -34,7 +34,7 @@
 
 <div align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LivramentoAmaral&show_icons=true&count_private=true&hide_border=true" />
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LivramentoAmaral&layout=compact&hide_border=true&hide=jupyter%20notebook" />
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LivramentoAmaral&layout=compact&hide_border=true&hide=jupyter%20notebook&langs_count=6&exclude_repo=" />
     <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=LivramentoAmaral&bg_color=ffffff&color=0000ff&hide_border=true&line=808080&point=0000ff&area=true" alt="Activity graph" />
 </div>
 
