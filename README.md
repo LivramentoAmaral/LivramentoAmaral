@@ -1,12 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Gabriel Rocha&color=0:00BCFF,100:00FF89&height=230&section=header&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&text=Marcos do Livramento Amaral&color=0:00BCFF,100:00FF89&height=230&section=header&fontColor=ffffff" />
 
 <div>
     <p align="center">
-        Atualmente, sou Tech Lead em uma pequena empresa de TI, onde sou responsável por gerenciar o ciclo 
-        completo de desenvolvimento de software, desde o planejamento até o deploy. Além de liderar a equipe de 
-        desenvolvimento, cuido da infraestrutura, hospedagem, versionamento de código, qualidade do 
-        código e automação de processos. Minha principal atuação é em back-end, mas também coordeno o trabalho dos 
-        desenvolvedores front-end e garanto a integração contínua e a entrega eficiente do produto.
+        Sou apaixonado por tecnologia e inovação, com experiência no desenvolvimento de soluções 
+        de software em diferentes áreas, como web, automação, e integração de sistemas. Atualmente, 
+        trabalho como líder técnico e desenvolvedor full-stack, coordenando equipes de desenvolvimento e 
+        gerenciando projetos de software desde o planejamento até a entrega. Tenho conhecimento em diversas 
+        tecnologias, como Python, Dart, JavaScript, React, Django, e Flutter, sempre com foco em qualidade e 
+        boas práticas de desenvolvimento. Sou entusiasta de automação e estou sempre em busca de novas 
+        maneiras de otimizar processos e melhorar a eficiência.
     </p>
 </div>
 
@@ -29,22 +31,22 @@
 <br />
 
 <div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RochaGabriell&show_icons=true&count_private=true&hide_border=true" />
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaGabriell&layout=compact&hide_border=true&hide=jupyter%20notebook" />
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RochaGabriell&bg_color=ffffff&color=0000ff&hide_border=true&line=808080&point=0000ff&area=true" atl="https://github.com/ashutosh00710/github-readme-activity-graph" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LivramentoAmaral&show_icons=true&count_private=true&hide_border=true" />
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LivramentoAmaral&layout=compact&hide_border=true&hide=jupyter%20notebook" />
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=LivramentoAmaral&bg_color=ffffff&color=0000ff&hide_border=true&line=808080&point=0000ff&area=true" alt="Activity graph" />
 </div>
 
 <br />
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=RochaGabriell&theme=darkhub&row=1&no-bg=true&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=LivramentoAmaral&theme=darkhub&row=1&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">
-    <a href="https://www.instagram.com/rochagabriell.dev/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/rochagabriell/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://t.me/RochaGabriell"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-    <a href="https://wa.me/+5589999228477"><img src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+    <a href="https://www.instagram.com/marcoslivramento.dev/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/marcos-do-livramento-amaral-90b941224/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://t.me/LivramentoMarcos"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="https://wa.me/+5589988877666"><img src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF89,100:00BCFF&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF89,100:00BCFF&height=120&section=footer" />
