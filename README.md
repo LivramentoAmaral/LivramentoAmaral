@@ -2,13 +2,7 @@
 
 <div>
     <p align="center">
-        Sou apaixonado por tecnologia e inovação, com experiência no desenvolvimento de soluções 
-        de software em diferentes áreas, como web, automação, e integração de sistemas. Atualmente, 
-        trabalho como líder técnico e desenvolvedor full-stack, coordenando equipes de desenvolvimento e 
-        gerenciando projetos de software desde o planejamento até a entrega. Tenho conhecimento em diversas 
-        tecnologias, como Python, Dart, JavaScript, React, Django, e Flutter, sempre com foco em qualidade e 
-        boas práticas de desenvolvimento. Sou entusiasta de automação e estou sempre em busca de novas 
-        maneiras de otimizar processos e melhorar a eficiência.
+        Tenho experiência no desenvolvimento de soluções de software em áreas como web, automação e integração de sistemas. Atualmente, trabalho como líder técnico e desenvolvedor full-stack, coordenando equipes e gerenciando projetos de software desde o planejamento até a entrega. Tenho conhecimentos sólidos em diversas tecnologias, como Python, Dart, JavaScript, React, Django e Flutter, sempre com foco em qualidade e boas práticas de desenvolvimento. Sou entusiasta de automação e estou constantemente buscando formas de otimizar processos e melhorar a eficiência.
     </p>
 </div>
 
