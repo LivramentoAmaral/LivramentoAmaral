@@ -2,7 +2,7 @@
 
 <div>
     <p align="center">
-       tenho experiência no desenvolvimento de aplicações web e mobile. Possuo conhecimentos em diversas tecnologias, incluindo Node.js, React, Next.js, Java, Spring e Python para aplicações web, além de Flutter para desenvolvimento mobile. Meu foco está na criação de soluções inovadoras e na implementação de boas práticas de desenvolvimento, combinando eficiência e usabilidade em meus projetos
+        Tenho experiência no desenvolvimento de aplicações web e mobile. Possuo conhecimentos em diversas tecnologias, incluindo Node.js, React, Next.js, Java, Spring e Python para aplicações web, além de Flutter para desenvolvimento mobile. Também estou me especializando em sistemas embarcados, ampliando meus conhecimentos na integração entre hardware e software. Meu foco está na criação de soluções inovadoras e na implementação de boas práticas de desenvolvimento, combinando eficiência e usabilidade em meus projetos.
     </p>
 </div>
 
